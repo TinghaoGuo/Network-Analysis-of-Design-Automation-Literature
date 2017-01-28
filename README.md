@@ -22,6 +22,7 @@ Design Automation Conference literature. The research work include:
  - most collaborate authors
  - clustering coefficients and average shortest path length (small world property)
 - Topic modeling: 
+ - Topic assignment for each paper
  - Topic frequencies and evolution
  - Topic relation exploration using correlation matrix and association rule learning
  - Citation analysis
