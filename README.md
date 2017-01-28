@@ -21,21 +21,8 @@ This toolbox consists of XXX (edited by Tinghao later)
 -------------------------------------------------------------------------------
 Requirements:
 
-Python Libraries
-- Beautiful Soup
-- NetworkX
-- NTLK
- 
-R Packages
-- igraph
-- ggplot2
-- xlsx
-- gdata
-- plyr
-- corrplot
-- reshape2
-- arules
-- arulesViz
+Python Libraries: Beautiful Soup, NetworkX, NTLK
+R Packages: igraph, ggplot2, xlsx, gdata, plyr, corrplot, reshape2, arules, arulesViz
 
 -------------------------------------------------------------------------------
 Data (should be edited by Yue Sun)
