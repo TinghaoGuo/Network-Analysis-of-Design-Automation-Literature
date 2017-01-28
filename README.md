@@ -17,11 +17,12 @@ Authors:
 Description:
 
 This toolbox consists of python and R code for performing network analysis of
-Design Automation Conference literature. 
-- Co-authorship analysis
-- Citation analysis 
-- Topic relatoin using correlation matrix and assocation rule learning
-
+Design Automation Conference literature. The research work include:
+- Co-authorship analysis:  (edited by Jiarui)
+- Citation analysis:   
+- Topic modeling: 
+	- 
+- Propogation Mergence: see https://github.com/sudongqi/Propagation_Mergence
 -------------------------------------------------------------------------------
 Requirements:
 
