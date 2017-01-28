@@ -30,6 +30,6 @@ Design Automation Conference literature. The research work include:
 -------------------------------------------------------------------------------
 Requirements:
 
-- Python Libraries: Beautiful Soup, NetworkX, NTLK
+- Python libraries: Beautiful Soup, NetworkX, NTLK
 
-- R Packages: igraph, ggplot2, xlsx, gdata, plyr, corrplot, reshape2, arules, arulesViz
+- R packages: igraph, ggplot2, xlsx, gdata, plyr, corrplot, reshape2, arules, arulesViz
