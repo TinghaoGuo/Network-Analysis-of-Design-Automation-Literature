@@ -1,5 +1,4 @@
 # Network-Analysis-of-Design-Automation-Literature
-
 -------------------------------------------------------------------------------
 Version 1.0
 Release date: XX/XX/2017
@@ -49,4 +48,4 @@ High Frequency Based Model
  - Association Rule Learning (should be edited by Tinghao)
 
 Propogation Mergence
- - see 
+ - see https://github.com/sudongqi/Propagation_Mergence
