@@ -4,13 +4,12 @@ Version 1.0
 Release date: XX/XX/2017
 --------------------------------------------------------------------------------
 Authors: 
-
-Tinghao Guo (guo32@illinois.edu)
-Jiarui Xu (jiaruix@andrew.cmu.edu)
-Yue Sun (yuesun3@illinois.edu)
-Yilin Dong (ydong24@illinois.edu)
-Neal Davis (davis68@illinois.edu)
-James T. Allison (jtalliso@illinois.edu)
+- Tinghao Guo (guo32@illinois.edu)
+- Jiarui Xu (jiaruix@andrew.cmu.edu)
+- Yue Sun (yuesun3@illinois.edu)
+- Yilin Dong (ydong24@illinois.edu)
+- Neal Davis (davis68@illinois.edu)
+- James T. Allison (jtalliso@illinois.edu)
 -------------------------------------------------------------------------------
 Description:
 
