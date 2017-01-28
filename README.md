@@ -21,23 +21,30 @@ This toolbox consists of XXX (edited by Tinghao later)
 -------------------------------------------------------------------------------
 Requirements:
 
-Python Libraries (edited by Jiarui Xu/Yue Sun)
- - Beautiful Soup
- - XXX
- - XXX
+Python Libraries
+- Beautiful Soup
+- NetworkX
+- NTLK
  
-R Packages (edited by Tinghao)
- - arules
- - arulesViz
+R Packages
+- igraph
+- ggplot2
+- xlsx
+- gdata
+- plyr
+- corrplot
+- reshape2
+- arules
+- arulesViz
 
 -------------------------------------------------------------------------------
 Data (should be edited by Yue Sun)
 
 
 Co-authorship Anlaysis (should be edited by Jiarui Xu)
- 1.
- 2.
- 3.
+-
+-
+-
  
 High Frequency Based Model 
  - Key phrase extraction and topic assignment (should be edited by Yue Sun) 
