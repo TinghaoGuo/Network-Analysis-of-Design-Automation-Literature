@@ -1,7 +1,9 @@
 # Network-Analysis-of-Design-Automation-Literature
+
 -------------------------------------------------------------------------------
 Version 1.0
 Release date: XX/XX/2017
+
 --------------------------------------------------------------------------------
 Authors: 
 - Tinghao Guo (guo32@illinois.edu)
