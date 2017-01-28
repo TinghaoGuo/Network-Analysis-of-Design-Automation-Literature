@@ -16,7 +16,11 @@ Authors:
 -------------------------------------------------------------------------------
 Description:
 
-This toolbox consists of XXX (edited by Tinghao later) 
+This toolbox consists of python and R code for performing network analysis of
+Design Automation Conference literature. 
+- Co-authorship analysis
+- Citation analysis 
+- Topic relatoin using correlation matrix and assocation rule learning
 
 -------------------------------------------------------------------------------
 Requirements:
