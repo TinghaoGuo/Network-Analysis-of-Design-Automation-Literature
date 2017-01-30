@@ -31,6 +31,6 @@ Design Automation Conference literature. The research work include:
 -------------------------------------------------------------------------------
 Requirements:
 
-- Python libraries: Beautiful Soup, NetworkX, NLTK, csv, pandas, nltk, enchant, json
+- Python libraries: Beautiful Soup, NetworkX, csv, pandas, nltk, enchant, json
 
 - R packages: igraph, ggplot2, xlsx, gdata, plyr, corrplot, reshape2, arules, arulesViz
