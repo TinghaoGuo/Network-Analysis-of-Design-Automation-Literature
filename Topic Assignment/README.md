@@ -1,6 +1,6 @@
 Topic Assignment: Key phrase extraction and topic assignment (run scripts in Jupyter Notebook)
 
-1. run ‘1.clean_pre-process.ipynb’ (‘code’ folder) in Jupiter Noteboothis step will: 
+1. run ‘1.clean_pre-process.ipynb’ (‘code’ folder) in Jupiter Noteboothis; this step will: 
  - create a new file named ‘r1_keyword_list_post.csv’ (in ‘code’ folder)	
  - print information in Jupyter Notebook
 
