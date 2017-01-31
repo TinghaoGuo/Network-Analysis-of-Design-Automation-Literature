@@ -1,0 +1,21 @@
+rules,support,confidence,lift
+"{gradient.based.optimization,kinematics} => {topology.optimization}",0.005395683,0.9,8.627586207
+"{gradient.based.optimization,kinematics} => {structural.design.}",0.005995204,1,5.578595318
+"{data.driven.methods,structural.design.,design.rules} => {reliability.based.design.optimization}",0.004196643,1,13.4516129
+"{reliability.based.design.optimization,design.rules} => {uncertainty.quantification}",0.005395683,1,6.390804598
+"{problem.formulation,reduced.order.methods,design.rules} => {computational.expense}",0.004196643,1,8.553846154
+"{reduced.order.methods,design.rules} => {surrogate.modeling}",0.004796163,1,6.087591241
+"{design.process.,design.rules} => {design.analysis}",0.009592326,1,2.420899855
+"{problem.formulation,design.rules} => {systems.engineering}",0.013189448,0.916666667,2.156558533
+"{reduced.order.methods,design.process.,global.optimization} => {computational.expense}",0.004196643,1,8.553846154
+"{emergence,surrogate.modeling,global.optimization} => {heuristic.optimization.algorithms}",0.007194245,1,8.136585366
+"{global.optimization,computational.expense} => {surrogate.modeling}",0.009592326,1,6.087591241
+"{global.optimization,experimental.validation} => {surrogate.modeling}",0.011390887,0.826086957,5.028879721
+"{global.optimization,heuristic.optimization.algorithms} => {emergence}",0.01498801,0.892857143,4.788700046
+"{multi.objective.optimization,global.optimization} => {emergence}",0.014388489,0.857142857,4.597152044
+"{design.process.,global.optimization,design.representation} => {early.stage.design}",0.012589928,0.807692308,3.31014931
+"{early.stage.design,global.optimization} => {design.representation}",0.012589928,1,2.574074074
+"{design.process.,global.optimization} => {creativity}",0.017386091,0.805555556,2.281267685
+"{data.driven.methods,global.optimization} => {search}",0.011990408,1,2.244952894
+"{creativity,global.optimization} => {design.representation}",0.01498801,0.862068966,2.219029374
+"{global.optimization,experimental.validation} => {design.analysis}",0.012589928,0.913043478,2.210386824

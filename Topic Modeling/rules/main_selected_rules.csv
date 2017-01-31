@@ -1,0 +1,6 @@
+rules,support,confidence,lift
+"{transportation.system.design,dynamic.and.control.system.design,product.development} => {sustainable.energy.system.design}",0.005395683,1,33.36
+"{design.appropriate.modeling,transportation.system.design,sustainable.energy.system.design} => {dynamic.and.control.system.design}",0.007194245,1,13.03125
+"{engineering.design.optimization,transportation.system.design,sustainable.energy.system.design} => {dynamic.and.control.system.design}",0.008393285,1,13.03125
+"{large.scale.engineering.system.design,design.method,mechanical.design} => {design.under.uncertainty}",0.021582734,0.87804878,2.697210619
+"{engineering.design.optimization,large.scale.engineering.system.design,mechanical.design} => {design.under.uncertainty}",0.022781775,0.844444444,2.593984039
