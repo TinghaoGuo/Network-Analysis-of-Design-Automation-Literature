@@ -26,7 +26,7 @@ Design Automation Conference literature. The research work include:
  - Topic frequencies and evolution
  - Topic relation exploration using correlation matrix and association rule learning
  - Citation analysis
- - Clustering analysis (also see https://github.com/sudongqi/Propagation_Mergence)
+ - Clustering analysis (also see Dongqi Su's propagation mergence at https://github.com/sudongqi/Propagation_Mergence)
  
 -------------------------------------------------------------------------------
 Requirements:
