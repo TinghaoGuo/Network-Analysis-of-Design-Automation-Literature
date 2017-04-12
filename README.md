@@ -19,14 +19,14 @@ Description:
 This toolbox consists of python and R code for performing network analysis of
 Design Automation Conference literature. The research work include:
 - Co-authorship analysis (also see Jiarui Xu's work at https://github.com/LargePanda/dac_network_analysis)
- - most collaborate authors
- - clustering coefficients and average shortest path length (small world property)
+ -- most collaborate authors
+ -- clustering coefficients and average shortest path length (small world property)
 - Topic modeling: 
- - Topic assignment for each paper
- - Topic frequencies and evolution
- - Topic relation exploration using correlation matrix and association rule learning
- - Citation analysis
- - Clustering analysis (also see Dongqi Su's propagation mergence at https://github.com/sudongqi/Propagation_Mergence)
+ -- Topic assignment for each paper
+ -- Topic frequencies and evolution
+ -- Topic relation exploration using correlation matrix and association rule learning
+ -- Citation analysis
+ -- Clustering analysis (also see Dongqi Su's propagation mergence at https://github.com/sudongqi/Propagation_Mergence)
  
 -------------------------------------------------------------------------------
 Requirements:
