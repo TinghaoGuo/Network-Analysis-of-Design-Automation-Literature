@@ -18,7 +18,7 @@ Description:
 
 This toolbox consists of python and R code for performing network analysis of
 Design Automation Conference literature. The research work include:
-- Co-authorship analysis
+- Co-authorship analysis (also see Jiarui Xu's work at https://github.com/LargePanda/dac_network_analysis)
  - most collaborate authors
  - clustering coefficients and average shortest path length (small world property)
 - Topic modeling: 
