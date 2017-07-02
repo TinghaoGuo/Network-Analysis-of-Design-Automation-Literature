@@ -1,10 +1,5 @@
 # Network-Analysis-of-Design-Automation-Literature
 
--------------------------------------------------------------------------------
-Version 1.0
-Release date: 3/5/2017
-
---------------------------------------------------------------------------------
 Authors: 
 - Tinghao Guo (guo32@illinois.edu)
 - Jiarui Xu (jiaruix@andrew.cmu.edu)
@@ -30,6 +25,13 @@ Design Automation Conference literature. The research work include:
     - https://github.com/sudongqi/Propagation_Mergence
     - https://www.ideals.illinois.edu/handle/2142/96023
  
+-------------------------------------------------------------------------------
+Primary Reference
+- Tinghao Guo, Jiarui Xu, Yue Sun, Yilin Dong, Neal E Davis, James T Allison. 'Network Analysis of Design Automation Literature.' In ASME 2017 International Design Engineering Technical Conferences, to appear, DETC2017-67361, Cleveland, OH, USA, Aug 2017.
+
+Supplementary Document
+- Tinghao Guo, Jiarui Xu, Yue Sun, Yilin Dong, Neal E Davis, James T Allison. 'Network Analysis of Design Automation Literature (Supplementary Materials).' Technical report, Engineering System Design Lab, UIUC-ESDL-2015-02, Urbana, IL, USA, May 2017. 
+- http://systemdesign.illinois.edu/publications/Guo2017c.pdf
 -------------------------------------------------------------------------------
 Requirements:
 
