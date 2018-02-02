@@ -19,6 +19,7 @@ Design Automation Conference literature. The research work include:
 -------------------------------------------------------------------------------
 Primary Reference
 - Tinghao Guo, Jiarui Xu, Yue Sun, Yilin Dong, Neal E Davis, James T Allison. 'Network Analysis of Design Automation Literature.' In ASME 2017 International Design Engineering Technical Conferences, to appear, DETC2017-67361, Cleveland, OH, USA, Aug 2017.
+- http://systemdesign.illinois.edu/publications/Guo2017b.pdf
 
 Supplementary Document
 - Tinghao Guo, Jiarui Xu, Yue Sun, Yilin Dong, Neal E Davis, James T Allison. 'Network Analysis of Design Automation Literature (Supplementary Materials).' Technical report, Engineering System Design Lab, UIUC-ESDL-2015-02, Urbana, IL, USA, May 2017. 
